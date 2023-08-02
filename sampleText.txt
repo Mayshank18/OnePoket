@@ -1,0 +1,3 @@
+This is a sample text file.
+It contains multiple lines.
+The script should count the number of words in this file.
